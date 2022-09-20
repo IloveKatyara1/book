@@ -1,0 +1,71 @@
+.body {
+
+    background-color: bisque;
+}
+
+.main { 
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    height: 1500px;
+    background-color: white;
+    position: absolute;
+    left: 130px;
+    width: 1020px; 
+    padding: 15px; 
+}
+
+.logo {
+    height: 40px;
+    width: 40px;
+    position: absolute;
+    left: 0px;
+}
+
+.header{
+    top: 0px;
+    padding: 0px;
+    width: 1251px;
+    height: 40px;
+    background-color: rgb(255, 255, 255);
+}
+.h1 {
+    
+    top: 40px;
+    text-align: center;
+}
+
+.hr {
+    top: 40px;
+    width: 1278px;
+    background-color: black;
+    height: 1px;
+    position: absolute;
+    left: -15px;
+    z-index: 2;
+}
+.title {
+    text-align: center;
+}
+.section {
+    color: rgb(23, 181, 181);
+}
+.photo {
+    height: 150px;
+    width: 200px;   
+}
+.photo1 {
+    height: 150px;
+    width: 200px;   
+}
+.photo2 {
+    height: 150px;
+    width: 200px;   
+}
+.photo3 {
+    height: 150px;
+    width: 200px;  
+}
+.photo4 {
+    height: 165px;
+    width: 165px;  
+}
